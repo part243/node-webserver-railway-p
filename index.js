@@ -31,8 +31,8 @@ app.get('/', (req, res) => {
 
 app.get('/generic', (req, res) => {
             res.render('generic',{
-                nombre: 'Alejandro Macías',
-                titulo: 'Curso de Node'
+                nombre: 'Alejandro Macías Lara',
+                titulo: 'Curso de Node js deplyment'
             });
     });
 
